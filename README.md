@@ -1,4 +1,4 @@
-# Practica-Usos-de-la-IA
+# Practica Usos de la IA (Prompting Avanzado)
 ## Practica Final P del Modulo Usos de la IA del Bootcamp de IA de Keepcoding
 
 ### Enunciado Práctica Final
